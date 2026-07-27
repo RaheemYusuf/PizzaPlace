@@ -1,0 +1,8 @@
+1.Total number of orders received.
+2.Total revenue generated.
+3.Which pizza types are our highest and lowest priced pizza and how much do they cost?
+4.Top 5 most ordered pizza types along with their name and  quantities.
+5.What does pizza orders look like by hour of the day?
+6.What is the average number of pizzas order quantity received per day.
+7.What is the contribution of each pizza category to the total revenue.
+8. What is the top 3 pizza types based on revenue for each pizza category.
